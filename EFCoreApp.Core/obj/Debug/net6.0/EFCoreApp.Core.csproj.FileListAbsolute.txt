@@ -1,0 +1,12 @@
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Core\bin\Debug\net6.0\EFCoreApp.Core.deps.json
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Core\bin\Debug\net6.0\EFCoreApp.Core.dll
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Core\bin\Debug\net6.0\ref\EFCoreApp.Core.dll
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Core\bin\Debug\net6.0\EFCoreApp.Core.pdb
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Core\obj\Debug\net6.0\EFCoreApp.Core.csproj.AssemblyReference.cache
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Core\obj\Debug\net6.0\EFCoreApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Core\obj\Debug\net6.0\EFCoreApp.Core.AssemblyInfoInputs.cache
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Core\obj\Debug\net6.0\EFCoreApp.Core.AssemblyInfo.cs
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Core\obj\Debug\net6.0\EFCoreApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Core\obj\Debug\net6.0\EFCoreApp.Core.dll
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Core\obj\Debug\net6.0\ref\EFCoreApp.Core.dll
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Core\obj\Debug\net6.0\EFCoreApp.Core.pdb
