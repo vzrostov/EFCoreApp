@@ -283,6 +283,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "EFCoreApp.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EFCoreApp.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EFCoreApp.Core.dll": {}
+        }
       }
     }
   },
@@ -734,10 +744,16 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "EFCoreApp.Core/1.0.0": {
+      "type": "project",
+      "path": "../EFCoreApp.Core/EFCoreApp.Core.csproj",
+      "msbuildProject": "../EFCoreApp.Core/EFCoreApp.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "EFCoreApp.Core >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.7",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.7",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 6.0.5"
@@ -751,11 +767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ZolotilovVA\\source\\repos\\EFCoreApp\\EFCoreApp.Infrastructure\\EFCoreApp.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\ZolotilovVA\\source\\repos\\EFCoreApp\\EFCoreApp.Infrastructure\\EFCoreApp.Infrastructure.csproj",
       "projectName": "EFCoreApp.Infrastructure",
-      "projectPath": "c:\\Users\\ZolotilovVA\\source\\repos\\EFCoreApp\\EFCoreApp.Infrastructure\\EFCoreApp.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\ZolotilovVA\\source\\repos\\EFCoreApp\\EFCoreApp.Infrastructure\\EFCoreApp.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ZolotilovVA\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ZolotilovVA\\source\\repos\\EFCoreApp\\EFCoreApp.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\ZolotilovVA\\source\\repos\\EFCoreApp\\EFCoreApp.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -778,7 +794,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ZolotilovVA\\source\\repos\\EFCoreApp\\EFCoreApp.Core\\EFCoreApp.Core.csproj": {
+              "projectPath": "C:\\Users\\ZolotilovVA\\source\\repos\\EFCoreApp\\EFCoreApp.Core\\EFCoreApp.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

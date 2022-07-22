@@ -1,7 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using EFCoreApp.Core.Model;
 using Microsoft.EntityFrameworkCore;
 
-namespace EFCoreApp.DB
+namespace EFCoreApp.Infrastructure.DB
 {
     public class BloggingContext : DbContext
     {

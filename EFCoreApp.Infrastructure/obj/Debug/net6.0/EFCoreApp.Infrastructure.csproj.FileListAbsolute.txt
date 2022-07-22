@@ -26,3 +26,6 @@ C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Infrastructure\obj\Debug\n
 C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Infrastructure\obj\Debug\net6.0\ref\EFCoreApp.Infrastructure.dll
 C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Infrastructure\obj\Debug\net6.0\EFCoreApp.Infrastructure.pdb
 C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Infrastructure\obj\Debug\net6.0\EFCoreApp.Infrastructure.genruntimeconfig.cache
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Infrastructure\bin\Debug\net6.0\EFCoreApp.Core.dll
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Infrastructure\bin\Debug\net6.0\EFCoreApp.Core.pdb
+C:\Users\ZolotilovVA\source\repos\EFCoreApp\EFCoreApp.Infrastructure\obj\Debug\net6.0\EFCoreApp.Infrastructure.csproj.CopyComplete
